@@ -163,7 +163,6 @@ pyflakes==2.2.0
 Pygments==2.7.2
 pyinstaller==4.2
 pyinstaller-hooks-contrib==2021.1
-pylint==2.6.0
 pyodbc==4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
