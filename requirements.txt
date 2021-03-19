@@ -184,7 +184,6 @@ regex==2020.10.15
 requests==2.24.0
 resampy==0.2.2
 rope==0.18.0
-Rtree==0.9.4
 ruamel-yaml==0.15.87
 sacremoses==0.0.43
 scikit-image==0.17.2
