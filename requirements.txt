@@ -1,4 +1,4 @@
-alabaster==0.7.12
+﻿alabaster==0.7.12
 altgraph==0.17
 anyio==2.2.0
 appdirs==1.4.4
@@ -123,6 +123,15 @@ notebook==6.1.4
 numba==0.51.2
 numexpr==2.7.1
 numpy==1.19.2
+numpy==1.16
+numpy==1.13.0
+numpy==1.7.1
+numpy==1.15.0
+numpy==1.11.3
+numpy
+numpy==1.7
+numpy==1.15
+numpy==1.19.5
 numpydoc==1.1.0
 olefile==0.46
 opencv-python==4.5.1.48
